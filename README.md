@@ -6,11 +6,11 @@
     <a href="https://www.linkedin.com/in/kinsley-chinda-amadi-2ba104257/">
         <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40">
     </a>
-    <a href="https://twitter.com/Kinsley_S2" alt="TwitterX">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="Instagram" height="30" width="40">
-    </a>
     <a href="https://www.instagram.com/kinsley.c.amadi/" alt="BotaoInstagram">
         <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="50">
+    </a>
+    <a href="https://twitter.com/Kinsley_S2" alt="TwitterX">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="Instagram" height="30" width="40">
     </a>
 
 ---
