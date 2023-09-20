@@ -52,4 +52,3 @@
 
 <img align="right" height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=K1NSLEY&theme=dark" alt="Days" />
 </p>
-![snake gif](https://github.com/K1NSLEY/K1NSLEY/blob/output/github-contribution-grid-snake.svg)
