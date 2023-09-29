@@ -44,6 +44,10 @@
     <a href="http://ifttt.com/" target="_blank" rel="noreferrer"> 
       <img src="https://github.com/K1NSLEY/HTML-CSS/blob/main/files/ReadMe/IFTTT.svg" alt="IFTTT" width="40" height="40"/> 
     </a> 
+    <a href="https://www.python.org/" target="_blank" rel="noreferrer"> 
+      <img src="https://github.com/K1NSLEY/HTML-CSS/blob/main/files/ReadMe/Python.svg" alt="PythonSite" width="40" height="40"/> 
+    </a> 
+    
         
 ---
 
