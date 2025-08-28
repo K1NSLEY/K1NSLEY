@@ -1,67 +1,49 @@
-<h1 align="center">👋🏼 Hi, i am Kinsley Amadi! </h1>
+# 👋 Olá, eu sou Kinsley Amadi!
 
-<h3 align="center">Connect with me and discover the full scope of my work! 🚀</h3>
-<h3 align="left">See some ways to contact me</h3>
-<p>
-    <a href="https://www.linkedin.com/in/kinsley-chinda-amadi-2ba104257/">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40">
-    </a>
-    <a href="https://www.instagram.com/kinsley.c.amadi/" alt="BotaoInstagram">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="50">
-    </a>
-    <a href="https://twitter.com/Kinsley_S2" alt="TwitterX">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="Instagram" height="30" width="40">
-    </a>
+🚀 Bem-vindo ao meu GitHub! Aqui você vai acompanhar minha jornada na tecnologia, meus projetos e experimentos com código. Vamos nos conectar e criar juntos!
 
 ---
-</p>
-    <h3>My programming languages and tools</h3>
-    <p align="left"> 
-    <a href="https://appinventor.mit.edu/" target="_blank" rel="noreferrer"> 
-      <img src="https://github.com/K1NSLEY/HTML-CSS/blob/main/files/ReadMe/Appinventor.svg" alt="AppInventor" width="50" height="40"/> 
-    </a> 
-    <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> 
-      <img src="https://github.com/K1NSLEY/HTML-CSS/blob/main/files/ReadMe/Arduino.svg" alt="Arduino" width="40" height="40"/> 
-    </a>
-    <a href="https://www.w3.org/" target="_blank" rel="noreferrer"> 
-      <img src="https://github.com/K1NSLEY/HTML-CSS/blob/main/files/ReadMe/HTML.svg" alt="W3 HTML" width="40" height="40"/> 
-    </a
-    <a href="https://www.mozilla.org/en-US/?v=1" target="_blank" rel="noreferrer"> 
-      <img src="https://github.com/K1NSLEY/HTML-CSS/blob/main/files/ReadMe/JavaScript.svg" alt="JavaScript" width="40" height="40"/> 
-    </a>
-    <a href="https://www.linuxfoundation.org/" target="_blank" rel="noreferrer"> 
-      <img src="https://github.com/K1NSLEY/HTML-CSS/blob/main/files/ReadMe/Linux.svg" alt="Linux" width="40" height="40"/> 
-    </a> 
-    <a href="https://nodejs.org/en" target="_blank" rel="noreferrer"> 
-      <img src="https://github.com/K1NSLEY/HTML-CSS/blob/main/files/ReadMe/Nodejs.svg" alt="NodeJs" width="40" height="40"/> 
-    </a> 
-    <a href="https://nodered.org/" target="_blank" rel="noreferrer"> 
-      <img src="https://github.com/K1NSLEY/HTML-CSS/blob/main/files/ReadMe/NodeRed.svg" alt="NodeRed" width="40" height="40"/> 
-    </a> 
-    <a href="https://www.espressif.com/" target="_blank" rel="noreferrer"> 
-      <img src="https://github.com/K1NSLEY/HTML-CSS/blob/main/files/ReadMe/expressif.svg" alt="Expressif" width="40" height="40"/> 
-    </a> 
-    <a href="http://ifttt.com/" target="_blank" rel="noreferrer"> 
-      <img src="https://github.com/K1NSLEY/HTML-CSS/blob/main/files/ReadMe/IFTTT.svg" alt="IFTTT" width="40" height="40"/> 
-    </a> 
-    <a href="https://www.python.org/" target="_blank" rel="noreferrer"> 
-      <img src="https://github.com/K1NSLEY/HTML-CSS/blob/main/files/ReadMe/Python.svg" alt="PythonSite" width="40" height="40"/> 
-    </a> 
-    
-       
----
-<p>
-    <h3 align="left">See my actually main project</h3>
-        <a href="https://github.com/K1NSLEY/AutoFiller" target="_blank" rel="noreferrer"> 
-        <img src="https://github.com/K1NSLEY/HTML-CSS/blob/main/files/ReadMe/Prototype.svg" alt="My Project" width="40" height="40"/> 
-    <h5 align="left">AutoFiller</h5>
-    </a> 
-    
-       
+
+## 📫 Vamos nos conectar!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-linkedin)  
+[![Instagram](https://img.shields.io/badge/Instagram-purple?logo=instagram&logoColor=white)](https://instagram.com/seu-instagram)  
+[![Twitter](https://img.shields.io/badge/Twitter-lightblue?logo=twitter&logoColor=white)](https://twitter.com/seu-twitter)
+
 ---
 
-<p align="center">
-<img align="left" height="150" src="https://github-readme-stats.vercel.app/api/top-langs?username=K1NSLEY&show_icons=true&locale=en&layout=compact&theme=dark" alt="Linguagens mais Usadas" />
+## 🛠️ Linguagens & Ferramentas
 
-<img align="right" height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=K1NSLEY&theme=dark" alt="Days" />
-</p>
+![App Inventor](https://img.shields.io/badge/App%20Inventor-2BAD5B?style=for-the-badge&logo=appinventor&logoColor=white) 
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white) 
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)  
+![Node-RED](https://img.shields.io/badge/Node--RED-2C3E50?style=for-the-badge&logo=node-red&logoColor=white)  
+![Espressif](https://img.shields.io/badge/Espressif-FF6600?style=for-the-badge&logo=esp8266&logoColor=white)  
+![IFTTT](https://img.shields.io/badge/IFTTT-000000?style=for-the-badge&logo=ifttt&logoColor=white)  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+---
+
+## 🚧 Projeto Atual: **AutoFiller**
+
+**AutoFiller** é uma ferramenta inteligente de automação que facilita e acelera o preenchimento de formulários digitais. Estou focado em desenvolver funcionalidades para tornar processos repetitivos mais rápidos e precisos.
+
+🔗 [Acesse o projeto](#) (adicione o link do projeto ou repositório aqui)
+
+---
+
+
+
+---
+
+Obrigado por visitar meu perfil! Vamos codar e crescer juntos. 🚀  
+Sinta-se à vontade para abrir uma issue, colaborar ou mandar uma mensagem! 😄
+
+---
+
+*Este README foi criado para destacar o que há de melhor na minha trajetória e inspirar conexões verdadeiras na comunidade tech.* 
+
+## 📊 Estatísticas do GitHub
