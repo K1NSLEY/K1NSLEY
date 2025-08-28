@@ -45,5 +45,3 @@ Sinta-se à vontade para abrir uma issue, colaborar ou mandar uma mensagem! 😄
 ---
 
 *Este README foi criado para destacar o que há de melhor na minha trajetória e inspirar conexões verdadeiras na comunidade tech.* 
-
-## 📊 Estatísticas do GitHub
