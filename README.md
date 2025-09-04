@@ -6,7 +6,6 @@
 
 ## 📫 Vamos nos conectar!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-linkedin)
 [![Instagram](https://img.shields.io/badge/Instagram-purple?logo=instagram&logoColor=white)](https://instagram.com/seu-instagram)
 [![Twitter](https://img.shields.io/badge/Twitter-lightblue?logo=twitter&logoColor=white)](https://twitter.com/seu-twitter)
 
